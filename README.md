@@ -20,3 +20,30 @@
 
 - 파일 입출력을 통한 이전 기록 확인
 - `.json` 파일 형식으로 재가공
+
+---
+
+### 사용방법
+
+![image](https://user-images.githubusercontent.com/28296575/100622407-2a0a5b00-3364-11eb-8222-0656df8ecef6.png)
+
+초기 화면입니다. 해당하는 숫자를 입력하여 메뉴로 진입합니다.
+
+![image](https://user-images.githubusercontent.com/28296575/100624218-879fa700-3366-11eb-9120-d08048b831b0.png)
+
+데이터를 입력할 수 있는 화면입니다.
+지시에 맞게 데이터를 입력하면 성공적으로 입력되었다는 메시지가 출력됩니다.
+
+![image](https://user-images.githubusercontent.com/28296575/100624288-a140ee80-3366-11eb-91e2-7b90b55871d6.png)
+
+데이터를 출력하는 화면입니다.
+입력되어있는 데이터들을 확인하고, 지금까지 입력된 금액의 합계를 확인할 수 있습니다.
+
+![image](https://user-images.githubusercontent.com/28296575/100624505-e402c680-3366-11eb-98b1-208eea339637.png)
+
+데이터를 json 형식 파일로 내보내는 화면입니다.
+중복되지 않는 파일 이름을 입력하여 json 형식으로 데이터를 내보낼 수 있습니다.
+
+![image](https://user-images.githubusercontent.com/28296575/100624740-17455580-3367-11eb-8438-56c6ecd706d9.png)
+
+성공적으로 파일이 생성된 모습입니다.
