@@ -10,7 +10,7 @@ void inputData();
 void writeData(int newDate, int money, char* description);
 void printData();
 void outputData();
-void publish_json();
+void publishJson();
 
 int main() {
     indexPage();
@@ -184,7 +184,7 @@ void outputData() {
 
     switch (outputSelector) {
     case 1:
-        publish_json();
+        publishJson();
         break;
     default:
         printf("\n# invalid input. please check again.\n");
@@ -194,7 +194,7 @@ void outputData() {
     indexPage();
 }
 
-void publish_json() {
+void publishJson() {
     // data 파일을 읽기 전용으로 연다
     int fd = open("data", O_RDONLY, 0644);
     if (fd < 0) {
