@@ -37,7 +37,7 @@ void indexPage() {
             outputData();
             break;
         case 4:
-            break;
+            exit(-1);
         default:
             break;
     }
