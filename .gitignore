@@ -1,3 +1,10 @@
 cmake-build-debug
 cmake-build-release
 CMakeLists.txt
+/.vs/slnx.sqlite
+/.vs/accountBook_C/v16/Browse.VC.opendb
+/.vs/accountBook_C/v16/Browse.VC.db
+/.vs/accountBook_C/v16/ipch/AutoPCH/61ea2de428682bda/MAIN.ipch
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
+/.vs/accountBook_C/v16/.suo
